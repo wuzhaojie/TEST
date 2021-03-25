@@ -11,3 +11,6 @@ feature2
 
 sss
 >>>>>>> feature/feature2
+>>>>>>>
+>>>>>>> lsdljflsjfkd
+
